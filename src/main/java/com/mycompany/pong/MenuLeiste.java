@@ -6,7 +6,6 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
-/* @author Lorenz Schaller */
 public class MenuLeiste extends JMenuBar implements ActionListener {
 
     JMenu menu_punkte1;
