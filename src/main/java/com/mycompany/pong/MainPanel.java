@@ -15,8 +15,6 @@ import java.awt.event.KeyListener;
 import javax.swing.JMenu;
 import javax.swing.Timer;
 
-
-/* @author Lorenz Schaller */
 public class MainPanel extends JPanel implements ActionListener, KeyListener{
     private Form ball;
     private Form player1;
