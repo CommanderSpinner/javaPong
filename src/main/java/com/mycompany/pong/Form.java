@@ -7,8 +7,6 @@ import java.awt.Rectangle;
 import java.util.Random;
 import javax.swing.JFrame;
 
-/* @author Lorenz Schaller */
-
 
 import java.awt.Color;
 import java.awt.Graphics;
