@@ -6,7 +6,6 @@ import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 
-/* @author Lorenz Schaller */
 public class Oberflaeche extends JFrame implements ActionListener{
     MainPanel mp;
     
